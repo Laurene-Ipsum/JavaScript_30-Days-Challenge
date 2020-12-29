@@ -104,7 +104,6 @@ const transportation = data.reduce(function(obj, item) {
     obj[item]++;
     return obj;
   }, {});
-
   console.log(transportation);
 
 
