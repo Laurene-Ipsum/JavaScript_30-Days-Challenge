@@ -1,0 +1,15 @@
+body {
+    background: rgb(24, 20, 44);
+    text-align: center;
+}
+h1{
+    color:#fff;
+    font-size: 3em;
+    font-family: sans-serif;
+    margin: 200px 50px;
+}
+
+p {
+    font-size: 40px;
+    color: #fff;
+}
